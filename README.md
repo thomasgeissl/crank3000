@@ -19,3 +19,5 @@ do not connect your laptop to the ethernet cable, 2 wires are used for supplying
 ## wanna get fancy
 * there is un untested osc route that can configure the crank, it's increment and decrement steps: https://github.com/thomasgeissl/klanglichtstrom/blob/master/io/crank/crank.ino#L89
 
+## credits
+thanks ben wesch for the grain pd patch.
